@@ -1,0 +1,22 @@
+body{
+background: #1c92d2;    
+background: linear-gradient(to right, #f2fcfe, #1c92d2); 
+}
+.container{
+    margin-top:150px;
+}
+.container input[type=text]{
+    width:50%;
+}
+.btn-outline-primary{
+    margin-left:20px;
+}
+.btn-outline-success{
+    margin-left: 20px;
+}
+.btn-outline-warning{
+    margin-left:20px;
+}
+.btn-outline-danger{
+    margin-left:20px;
+}
